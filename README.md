@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/lvl374-gif.gif" width="400"/>
+<img src="./assets/lvl374-gif.gif" width="400" title="art by @lvl374"/>
 
 <br>
 
