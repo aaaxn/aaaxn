@@ -11,6 +11,7 @@ ai researcher @ speedlab · ufmg
 *training models, breaking things, and trying to understand papers at 2am*
 
 <br>
+
 **[twitter](https://x.com/aaaxny)** · **[spotify](https://open.spotify.com/user/6ygafgpx3r7xyxd0kqeyu9hte)** 
 
 </div>
