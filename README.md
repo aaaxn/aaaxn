@@ -8,7 +8,7 @@
 
 ai researcher @ speedlab · ufmg
 
-*training models, breaking things, and trying to understand papers at 2am*
+*training models and breaking things*
 
 <br>
 
