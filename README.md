@@ -12,6 +12,6 @@ ai researcher @ speedlab · ufmg
 
 <br>
 
-**[twitter](https://x.com/aaaxny)** · **[spotify](https://open.spotify.com/user/6ygafgpx3r7xyxd0kqeyu9hte)** 
+**[twitter](https://x.com/aaaxny)** 
 
 </div>
