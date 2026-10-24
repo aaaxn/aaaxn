@@ -4,7 +4,7 @@
 
 <br>
 
-# hi, i'm aaaxn
+# hi, i'm artur
 
 ai researcher @ speedlab · ufmg
 
