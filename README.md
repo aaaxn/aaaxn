@@ -12,6 +12,4 @@ ai researcher @ speedlab · ufmg
 
 <br>
 
-**[twitter](https://x.com/aaaxny)** 
-
 </div>
